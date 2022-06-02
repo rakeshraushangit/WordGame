@@ -139,6 +139,7 @@ class ViewController: UIViewController {
             }
             self.player = .user
         }
+        print("Test")
     }
     
     /* Post Lost Execution */
